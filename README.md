@@ -44,7 +44,7 @@ End-to-end test automation framework built with Playwright and JavaScript follow
 - Web tables page loads
 
 ## Test Results
-![Test Results](report.png)
+![Playwright Results](report.png.png)
 
 ## How To Run
 - npm install
